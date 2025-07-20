@@ -107,7 +107,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Achmad Hadianto**, a Data Engineer at an IT Support and Services company in Indonesia. I'm continuously learning and growing to become more professional in my career!
+Hi there! I'm **Achmad Hadianto**, a Data Engineer at an IT Consultant & Services company in Indonesia. I'm continuously learning and growing to become more professional in my career!
 
 Let's stay in touch! Feel free to connect with me on LinkedIn:
 
